@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Akatsuki%20fc/static/css/main.7ddf252d.css",
+    "main.js": "/Akatsuki%20fc/static/js/main.deaf6136.js",
+    "static/js/453.e1c1cc0c.chunk.js": "/Akatsuki%20fc/static/js/453.e1c1cc0c.chunk.js",
+    "static/media/SEGA.TTF": "/Akatsuki%20fc/static/media/SEGA.8a619f32417a0fe72728.TTF",
+    "index.html": "/Akatsuki%20fc/index.html",
+    "main.7ddf252d.css.map": "/Akatsuki%20fc/static/css/main.7ddf252d.css.map",
+    "main.deaf6136.js.map": "/Akatsuki%20fc/static/js/main.deaf6136.js.map",
+    "453.e1c1cc0c.chunk.js.map": "/Akatsuki%20fc/static/js/453.e1c1cc0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ddf252d.css",
+    "static/js/main.deaf6136.js"
+  ]
+}
